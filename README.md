@@ -9,18 +9,22 @@ I've been in Tech since 2017, working in nearly every aspect that did NOT requir
 # Languages & Tools
 <div>
   <img src="icons/html-svgrepo-com.svg" alt="html5" width=50 height=50>
-  <img src="icons/css-svgrepo-com.svg" alt="html5" width=50 height=50>
-  <img src="icons/git-svgrepo-com.svg" alt="html5" width=50 height=50>
-  <img src="icons/github-142-svgrepo-com.svg" alt="html5" width=50 height=50>
-  <img src="icons/js-svgrepo-com.svg" alt="html5" width=50 height=50>
-  <img src="icons/nodejs-icon-svgrepo-com.svg" alt="html5" width=50 height=50>
-  <img src="icons/python-svgrepo-com.svg" alt="html5" width=50 height=50>
-  <img src="icons/sql-database-generic-svgrepo-com.svg" alt="html5" width=50 height=50>
-  <img src="icons/vscode-svgrepo-com.svg" alt="html5" width=50 height=50>
-  <img src="icons/postman-icon-svgrepo-com.svg" alt="html5" width=50 height=50>
+  <img src="icons/css-svgrepo-com.svg" alt="CSS3" width=50 height=50>
+  <img src="icons/git-svgrepo-com.svg" alt="git" width=50 height=50>
+  <img src="icons/github-142-svgrepo-com.svg" alt="github" width=50 height=50>
+  <img src="icons/js-svgrepo-com.svg" alt="javascript" width=50 height=50>
+  <img src="icons/nodejs-icon-svgrepo-com.svg" alt="nodejs" width=50 height=50>
+  <img src="icons/python-svgrepo-com.svg" alt="python" width=50 height=50>
+  <img src="icons/sql-database-generic-svgrepo-com.svg" alt="sql" width=50 height=50>
+  <img src="icons/vscode-svgrepo-com.svg" alt="vscode" width=50 height=50>
+  <img src="icons/postman-icon-svgrepo-com.svg" alt="postman" width=50 height=50>
+  <img src="icons/adobe-illustrator-svgrepo-com.svg" alt="illustrator" width=50 height=50>
 </div>
 
 # Current Projects / Topics of Interest:
+- OKCoders 2024 Cohort
+- Pi Hole (and other Raspberry Pi projects)
+- <a href="https://boot.dev:">boot.dev</a>
 
 
 - 🌱 I’m currently learning ...
