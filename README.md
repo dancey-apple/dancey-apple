@@ -7,7 +7,9 @@ Like most melenials (*shudder* I know) I grew up with tech. I had an NES/PS1/Etc
 I've been in Tech since 2017, working in nearly every aspect that did NOT require coding skills, from QA to Incident Management. But I felt that that limited my value and started my code path in 2020 slowly working on self taught lessons on YT and REPLIT. I moved on to the OKCoders 2024 bootcamp and have been coding ever since!
 
 # Languages & Tools
-
+<div>
+  <img src="https://raw.githubuesrcontent.com/dancey-apple/dancey-apple/main/icons/html-svgrepo-com.svg" alt="html5" width=50 height=50>
+</div>
 
 # Current Projects / Topics of Interest:
 
