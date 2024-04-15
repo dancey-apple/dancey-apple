@@ -25,11 +25,26 @@ I've been in Tech since 2017, working in nearly every aspect that did NOT requir
 - OKCoders 2024 Cohort
 - Pi Hole (and other Raspberry Pi projects)
 - <a href="https://boot.dev:">boot.dev</a>
+- Generative AI like <a href="https://www.midjourney.com/explore">MidJourney<a> (search for my username: "cptnfrost" to see my AI images)
+- DATA! and dashboards. I really enjoy organizing and compiling data in readable and easily digestible ways. I'm currently exploring SQL and other database languages.
+- Unreal Engine. I would love to connect about Unreal Engine and dive into what it can do. 
 
 
-- 🌱 I’m currently learning ...
+## I’m currently learning:
+<div>
+  <img src="icons/html-svgrepo-com.svg" alt="html5" width=50 height=50>
+  <img src="icons/css-svgrepo-com.svg" alt="CSS3" width=50 height=50>
+  <img src="icons/js-svgrepo-com.svg" alt="javascript" width=50 height=50>
+  <img src="icons/nodejs-icon-svgrepo-com.svg" alt="nodejs" width=50 height=50>
+  <img src="icons/python-svgrepo-com.svg" alt="python" width=50 height=50>
+  <img src="icons/sql-database-generic-svgrepo-com.svg" alt="sql" width=50 height=50>
+  <img src="icons/docker-svgrepo-com.svg" alt="sql" width=50 height=50>
+  <img src="icons/go-svgrepo-com.svg" alt="sql" width=50 height=50>
+  <img src="icons/kubernetes-svgrepo-com.svg" alt="sql" width=50 height=50>
+</div>
 
-##📫 How to reach me: ...
+## How to reach me:
+
   😄 Pronouns: he/him/his
 # ⚡ Non-tech related interests:
 
