@@ -49,7 +49,7 @@ I've been in Tech since 2017, working in nearly every aspect that did NOT requir
 ## How to reach me:
 <div> 
   <a href="https://www.linkedin.com/in/dancey-apple/"> <img src="icons/linkedin-1-svgrepo-com.svg" alt="linkedin" width=50 height=50></a>
-  <a href="mailto:dancey.apple@proton.me"> <img src="icons/email-svgrepo-com.svg" alt="email" width=50 height=50> dancey.apple@proton.me </a>
+  <a href="mailto:dancey.apple@proton.me"><img src="icons/email-svgrepo-com.svg" alt="email" width=50 height=50></a>
 </div>
 
 # Community
