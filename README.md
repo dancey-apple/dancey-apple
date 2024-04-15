@@ -14,10 +14,10 @@ I've been in Tech since 2017, working in nearly every aspect that did NOT requir
   <img src="icons/github-142-svgrepo-com.svg" alt="html5" width=50 height=50>
   <img src="icons/js-svgrepo-com.svg" alt="html5" width=50 height=50>
   <img src="icons/nodejs-icon-svgrepo-com.svg" alt="html5" width=50 height=50>
-  <img src="icons/python-icon-svgrepo-com.svg" alt="html5" width=50 height=50>
-  <img src="icons/sql-datbase-generic-svgrepo-com.svg" alt="html5" width=50 height=50>
+  <img src="icons/python-svgrepo-com.svg" alt="html5" width=50 height=50>
+  <img src="icons/sql-database-generic-svgrepo-com.svg" alt="html5" width=50 height=50>
   <img src="icons/vscode-svgrepo-com.svg" alt="html5" width=50 height=50>
-  <img src="icons/postman-svgrepo-com.svg" alt="html5" width=50 height=50>
+  <img src="icons/postman-icon-svgrepo-com.svg" alt="html5" width=50 height=50>
 </div>
 
 # Current Projects / Topics of Interest:
