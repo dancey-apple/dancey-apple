@@ -53,7 +53,8 @@ I've been in Tech since 2017, working in nearly every aspect that did NOT requir
 </div>
 
 # Community
-- SB1671 Project Manager 
+- SB1671 Project Manager
+- Techlahoma Member
 
 # Non-tech related interests:
 ### :video_game: Gaming
