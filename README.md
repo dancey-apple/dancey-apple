@@ -3,8 +3,8 @@
 (Pink actually wrote a song about me, the lyrics go "Don't get fancy, just get DANCEY!")... I digress. 
 
 ## About me!
-Like most melenials (*shudder* I know) I grew up with tech. I had an NES/PS1/Etc.. and when they stopped working, it was up to me to troubleshoot and fix it. I'm a natural troubleshooter, motivated learner, and always currious about the world. I'm always looking for new ways to __AUTOMATE__ my life. (I bought a fish, and instead of cleangin the tank myself, I also bought snails to clean the tank for me!).
-I've been in Tech since 2017, working in nearly every aspect that did NOT require coding skills, from QA to Incident Management. But I felt that that limited my value and started my code path in 2020 slowly working on self taught lessons on YT and REPLIT. I moved on to the OKCoders 2024 bootcamp and have been coding ever since!
+Like most millennials (*shudder* I know) I grew up with tech. I had an NES/PS1/Etc.. and when they stopped working, it was up to me to troubleshoot and fix it. I'm a natural troubleshooter, motivated learner, and always curious about the world. I'm always looking for new ways to __AUTOMATE__ my life. (I bought a fish, and instead of cleaning the tank myself, I also bought snails to clean the tank for me!).
+I've been in Tech since 2017, working in nearly every aspect that did NOT require coding skills, from QA to Incident Management. But I felt that that limited my value and started my code path in 2020 slowly working on self-taught lessons on YT and REPLIT. I moved on to the OKCoders 2024 bootcamp and have been coding ever since!
 😄 Pronouns: he/him/his
 
 # Languages & Tools
@@ -27,8 +27,8 @@ I've been in Tech since 2017, working in nearly every aspect that did NOT requir
 # Current Projects / Topics of Interest:
 - OKCoders 2024 Cohort
 - Pi Hole (and other Raspberry Pi projects)
-- <a href="https://boot.dev:">boot.dev</a>
-- Generative AI like <a href="https://www.midjourney.com/explore">MidJourney<a> (search for my username: "cptnfrost" to see my AI images)
+- <a href="https://boot.dev/">boot.dev</a>
+- Generative AI like <a href="https://www.midjourney.com/explore">MidJourney</a> (search for my username: "cptnfrost" to see my AI images)
 - __DATA!__ and dashboards. I really enjoy organizing and compiling data in readable and easily digestible ways. I'm currently exploring SQL and other database languages.
 - Unreal Engine. I would love to connect about Unreal Engine and dive into what it can do. 
 
@@ -66,7 +66,7 @@ I've been in Tech since 2017, working in nearly every aspect that did NOT requir
 - Star Wars
 - Love, Death, & Robots
 - Star Trek
-- Lego (especially retro/nastalgic sets)
+- Lego (especially retro/nostalgic sets)
 
 
 
