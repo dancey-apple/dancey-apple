@@ -67,8 +67,8 @@ I've been in Tech since 2017, working in nearly every aspect that did NOT requir
 - Star Wars
 - Love, Death, & Robots
 - Star Trek
-- Lego (especially retro/nostalgic sets)
 
 ### :rocket: Non-Tech or Non-Nerdy
 - Fitness :muscle:
 - Woodworking 🪚
+- Lego (especially retro/nostalgic sets) :bricks:
